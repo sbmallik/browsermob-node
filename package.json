@@ -12,7 +12,10 @@
   "main": "./browsermob.js",
   "dependencies" :
     {
-      "webdriverio" : ""
+      "browsermob-proxy": "~1.0.5",
+      "webdriverjs": "~1.6.1",
+      "webdriverio" : "",
+      "chromedriver" : ""
   }
 }
 
